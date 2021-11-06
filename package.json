@@ -1,7 +1,7 @@
 {
   "name": "climate-change-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Demo to show how to build your own API and host in on RapidAPI",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
@@ -13,5 +13,13 @@
     "cheerio": "^1.0.0-rc.10",
     "express": "^4.17.1",
     "nodemon": "^2.0.13"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kubowania/climate-change-live-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kubowania/climate-change-live-api/issues"
+  },
+  "homepage": "https://github.com/kubowania/climate-change-live-api#readme"
 }
